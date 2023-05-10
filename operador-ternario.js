@@ -1,4 +1,4 @@
-//Quando vamos fazer comparaç~eos mais curtas podemos utilizar o operador ternario 
+//Quando vamos fazer comparações mais curtas podemos utilizar o operador ternario 
 //pois fica mais conciso e reduziria o numero de linhas
 
 
@@ -12,7 +12,7 @@ if (idadeEstudante >= 18 ){
     console.log("aguarde fazer 18 anos para se cadastrar no enem")
 }
 
-
+//operador ternário
 console.log(idadeEstudante >= idadeMinima ? "pode se cadastrar no enem" : "aguarde")
 
 

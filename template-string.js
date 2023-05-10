@@ -15,4 +15,21 @@ console.log(apresentacao);
 
  console.log(apresentacao2);
 
- 
+ let medo =  "pular";
+ let quem = "joaozinho";
+
+ const frase = `${quem} tem muito medo de ${medo}, por isso sempre chama sua mãe, ${nome} para ficar ao seu lado no pula-pula`;
+
+console.log(frase);
+
+medo = "escuro";
+quem = "alguém";
+
+const frase2 = `${quem} aqui tem medo de ficar sozinho no ${medo}? Pois eu não tenho!`
+console.log(frase2);
+
+medo = "dentista";
+quem = "girafas";
+
+const frase3 = `Dizem por aí que as ${quem} morrem de medo de ver um ${medo}, mas elas não precisam se preocupar pois não comem doces e não devem ter cáries`
+console.log(frase3);
